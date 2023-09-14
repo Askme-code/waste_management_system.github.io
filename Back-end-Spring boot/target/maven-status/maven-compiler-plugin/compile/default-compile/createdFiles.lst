@@ -1,0 +1,6 @@
+com\angular\studentmanagement\domain\Student.class
+com\angular\studentmanagement\repository\StudentRepository.class
+com\angular\studentmanagement\StudentManagementSystemApplication.class
+com\angular\studentmanagement\service\StudentService.class
+com\angular\studentmanagement\controller\StudentController.class
+com\angular\studentmanagement\service\StudentServiceImpl.class
